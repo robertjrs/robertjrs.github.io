@@ -1,6 +1,6 @@
 ---
 page_id: cv
-layout: archive #cv
+layout: cv
 permalink: /cv/
 title: CV
 nav: true
